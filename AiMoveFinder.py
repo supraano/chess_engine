@@ -1,8 +1,5 @@
 from keras.models import Sequential, load_model, model_from_json
 import numpy as np
-import chess
-from operator import attrgetter
-import ChessEngine
 
 class AiMoveFinder:
     # one-hot-encoded pieces
