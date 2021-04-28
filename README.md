@@ -9,3 +9,7 @@ Steps to start the engine:
 Shortcuts:
 - r: reset board
 - z: undo last move
+
+Credits:
+- Board visualization and rule execution: https://www.youtube.com/watch?v=EnYui0e73Rs&t=1s
+- AI model creation: https://towardsdatascience.com/creating-a-chess-algorithm-using-deep-learning-and-monte-carlo-methods-d7dabd275e63
